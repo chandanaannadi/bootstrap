@@ -1,6 +1,9 @@
 .navbar{
     background-color: rgb(249, 248, 247);
 }
+.nav-collapse{
+    width: 50%;
+}
 
 #myCarousel .item{ 
     height: 300px;
@@ -10,6 +13,7 @@
     background-color:rgb(244, 241, 238);
     
 }
+
 
 
 #slide1{
